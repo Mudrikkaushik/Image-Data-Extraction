@@ -4,7 +4,7 @@ import math
 from skimage.filters import threshold_local
 from PIL import Image
 input_file_path = 'D:/bytexl_project/help_comp/english.png' 
-output_file_path = 'D:/bytexl_project/result/preprocess.jpg'  
+output_file_path = 'D:/bytexl_project/result/preprocessed.png'  
 img = Image.open(input_file_path)
 img.thumbnail((800, 800), Image.ANTIALIAS)  
 def resize(image, ratio):
