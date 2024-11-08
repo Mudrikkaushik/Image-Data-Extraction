@@ -1,0 +1,75 @@
+0.What is the primary purpose of using Google Gemini in image insight extraction?
+
+A) To enhance image resolution
+B) To extract meaningful information from images
+C) To classify images based on colors
+D) To generate captions for images
+
+1.Which of the following is a common preprocessing step in image analysis?
+
+A) Image compression
+B) Noise reduction
+C) Text summarization
+D) Syntax analysis
+
+
+2.How does preprocessing impact the image insights extraction process?
+
+A) It reduces the model's processing time by shrinking the image
+B) It enhances the quality of input for the LLM, improving accuracy
+C) It is only used to store images efficiently
+D) It enables color correction only
+
+
+3.What role does Google Gemini play in a multilingual image extraction system?
+
+A) Translates insights into multiple languages
+B) Assesses the accuracy of extracted text
+C) Replaces text with symbols
+D) Organizes images by file size
+
+
+4.Which format is typically used to store extracted data from images?
+
+A) XML
+B) CSV
+C) JSON
+D) TXT
+
+5.In the context of extracting insights from images, what does LLM stand for?
+
+A) Large Language Model
+B) Light Language Method
+C) Language Learning Model
+D) Logical Language Module
+
+6.Which method is commonly used to extract text from images in preprocessing?
+
+A) Optical Character Recognition (OCR)
+B) Semantic Text Analysis
+C) Language Translation
+D) Image Scaling
+
+
+7.Why might a JSON format be preferred for storing extracted insights?
+
+A) It allows for efficient image rendering
+B) It is optimized for binary data storage
+C) JSON is easy to parse and store hierarchical data
+D) JSON supports only image-based data
+
+
+8.Which of these challenges is most common in image-based insight extraction?
+
+A) High memory usage of JSON format
+B) Difficulty in accessing hierarchical data
+C) Noise and distortion in images affecting accuracy
+D) Limited storage options for extracted data
+
+
+9.What is one key advantage of using an LLM like Google Gemini for image insights over traditional methods?
+
+A) It requires no preprocessing steps
+B) It can understand and analyze visual and contextual data
+C) It is faster than all traditional image analysis tools
+D) It has unlimited storage for insights
