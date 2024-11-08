@@ -70,7 +70,7 @@ Replace `your_google_gemini_api_key` with your actual API key.
 1. Start the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run opt.py
     ```
 
     Replace `app.py` with the name of your script if it differs.
