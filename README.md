@@ -1,5 +1,8 @@
 # Multi-Lingual Invoice Extraction App
 
+![image](https://github.com/user-attachments/assets/472988e2-065e-4aba-9f73-8f0afef1957f)
+
+
 This Streamlit app allows users to upload an invoice image and ask questions about it. The app leverages Google Gemini, a Large Language Model (LLM), to generate answers based on the content of the invoice. The app is useful for extracting multilingual insights from invoice images through preprocessing and analysis.
 
 ## Table of Contents
