@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourrepositoryname.git
+    git clone https://github.com/Mudrikkaushik/Imagedata_extraction.git
     ```
 
 2. Navigate to the project directory:
